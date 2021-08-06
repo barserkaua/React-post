@@ -1,0 +1,12 @@
+.btn-group {
+    font-size: 1.25rem;
+}
+
+.btn-post-status {
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
